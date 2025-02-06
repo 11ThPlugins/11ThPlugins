@@ -7,9 +7,9 @@
 **Im working on Legacy of Sauros with developer right now 💼**
 
 # I can develop special plugins for you
-\n **You can contact with me 📫**
-\n **Discord: https://discord.gg/Cx9v7g4NmY**
-\n **Discord: 11ThPlugins**
+**You can contact with me 📫**
+**Discord: https://discord.gg/Cx9v7g4NmY**
+**Discord: 11ThPlugins**
 
 **![](https://komarev.com/ghpvc/?username=11ThPlugins)**
 
