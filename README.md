@@ -3,7 +3,7 @@ I am a developer, although it is mostly about Minecraft, I can also take part in
 I haven't studied university for software, I'm trying to learn it myself, I've been coding Minecraft plugins for 3 years. 🐱‍👤
 
 # My Skills and Job
-I am currently working on java and kotlin and also learning c++ and rust. 💻
+I am currently working on python, java and kotlin and also learning c++ and rust. 💻
 Im working on Legacy of Sauros with developer right now 💼
 
 # I can develop special plugins for you
